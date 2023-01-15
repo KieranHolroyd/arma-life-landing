@@ -1,0 +1,7 @@
+name = "arma-life-landing"
+compatibility_date = "2023-01-15"
+
+account_id = "dee473b777ccdb8a889e30905f52b363"
+
+[build]
+command = "npm install && npm run build"
